@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RLoad_Example' do
+  pod 'RLoad', :path => '../'
+
+  target 'RLoad_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
