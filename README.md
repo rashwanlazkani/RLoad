@@ -41,10 +41,17 @@ Stops the indicator
 <h5>remove()</h5>
 Removes the indicator from your view
 
+<h4>To quickly get started, simply just add the following:</h4>
+
+```
+let rload = RLoadIndicator()
+rload.create(x: view.frame.midX - 50, y: view.frame.midY - 50, radius: 50, begin: true)
+view.addSubview(rload)
+```
 
 ## Author
 
-rashwanlazkani, rashwan.lazkani@gmail.com
+rashwanlazkani, rashwan87@gmail.com
 
 ## License
 
