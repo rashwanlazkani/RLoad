@@ -10,6 +10,8 @@ ci.org/rashwanlazkani/RLoad)
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+![](https://media.giphy.com/media/1fhHiqdwEdl6c2An7q/giphy.gif)
+
 ## Requirements
 
 ## Installation
