@@ -49,6 +49,16 @@ rload.create(x: view.frame.midX - 50, y: view.frame.midY - 50, radius: 50, begin
 view.addSubview(rload)
 ```
 
+Your´re able to change the colors by either:
+
+```
+Adding additional colors:
+rload.colors.append(.gray)
+
+Or adding a new list:
+rload.colors = [.green, .gray, .magenta]
+```
+
 ## Author
 
 rashwanlazkani, rashwan87@gmail.com
