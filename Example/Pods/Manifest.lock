@@ -1,0 +1,16 @@
+PODS:
+  - RLoad (0.1.0)
+
+DEPENDENCIES:
+  - RLoad (from `../`)
+
+EXTERNAL SOURCES:
+  RLoad:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RLoad: 36c971bc51036115f9a84ef018bbe175582c6597
+
+PODFILE CHECKSUM: bd1d8a630b5cb44b9cccdacc6b29fd2ac2f2fd6a
+
+COCOAPODS: 1.5.3
