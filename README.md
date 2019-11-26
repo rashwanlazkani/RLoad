@@ -10,7 +10,7 @@ ci.org/rashwanlazkani/RLoad)
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-![](https://media.giphy.com/media/1fhHiqdwEdl6c2An7q/giphy.gif)
+<a href="https://drive.google.com/uc?export=view&id=1IpmRd-F3hX5VfKyxQkuC0AUYMSPgx1tu"><img src="https://drive.google.com/uc?export=view&id=1IpmRd-F3hX5VfKyxQkuC0AUYMSPgx1tu" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 ## Requirements
 
